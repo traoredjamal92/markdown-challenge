@@ -7,5 +7,4 @@
 #courageux
 
 |birthday   |favorite color|favorite food|pinneapple on pizza |
-|--- - -- - |--------------|-------------|--------------------|
-|08/11/1992 |bleu ciel        |riz       |                    |
+|08/11/1992 |bleu ciel        |riz       | |
